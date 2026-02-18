@@ -123,9 +123,6 @@ vercel
 
 **Emerald Capital Properties** - Real Estate Broker
 
-- **Experience**: 20 years in Southern California real estate
-- **Specialties**: Residential, Commercial, Real Estate Finance
-- **Background**: Corporate finance experience with private equity firm in NYC
 
 ---
 
