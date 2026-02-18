@@ -1,12 +1,12 @@
-# Jamila Qadiri - Real Estate Broker Portfolio
+# Emerald Capital Properties - Real Estate Broker Portfolio
 
-A modern, interactive portfolio website showcasing the expertise of Jamila Qadiri, a Real Estate Broker with 20 years of experience in Southern California residential and commercial real estate.
+A modern, interactive portfolio website showcasing the expertise of Emerald Capital Properties, a Real Estate Broker with 20 years of experience in Southern California residential and commercial real estate.
 
-![Portfolio Preview](https://via.placeholder.com/800x400/1a1a1a/00ff00?text=Jamila+Qadiri+Portfolio)
+![Portfolio Preview](https://via.placeholder.com/800x400/1a1a1a/00ff00?text=Emerald Capital Properties+Portfolio)
 
 ## 🌟 Features
 
-- **Interactive AI Chat**: Ask questions about Jamila's experience and expertise through an intelligent chat interface
+- **Interactive AI Chat**: Ask questions about Emerald Capital Properties's experience and expertise through an intelligent chat interface
 - **Responsive Design**: Beautifully crafted UI that works seamlessly across all devices
 - **Modern Tech Stack**: Built with Next.js, React, TypeScript, and Python FastAPI backend
 - **Real-time Streaming**: Smooth, real-time AI responses using OpenAI's API
@@ -116,9 +116,9 @@ vercel
 3. Set environment variables in Vercel dashboard:
    - `OPENAI_API_KEY`
 
-## 💼 About Jamila Qadiri
+## 💼 About Emerald Capital Properties
 
-**Jamila Qadiri** - Real Estate Broker
+**Emerald Capital Properties** - Real Estate Broker
 
 - **Experience**: 20 years in Southern California real estate
 - **Education**: BS in Business (Finance & Management) from Chapman University
@@ -127,4 +127,4 @@ vercel
 
 ---
 
-Built with ❤️ by Jamila Qadiri
+Built with ❤️ by Emerald Capital Properties
