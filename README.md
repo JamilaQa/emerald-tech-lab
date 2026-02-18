@@ -9,7 +9,7 @@ This repository highlights technology initiatives and AI-driven tools designed t
 ## 🌟 Features
 
 - **Interactive AI Chat**: Ask questions about the property and expertise through an intelligent chat interface
--**Property Marketing and Digital Listing Presentation**:  crafted with UI that works seamlessly across all devices
+- **Property Marketing and Digital Listing Presentation**:  crafted with UI that works seamlessly across all devices
 - **Automated content creation for listings and outreach**: Smooth, real-time AI responses using OpenAI's API
 - **Client communication systems**: Always have an answer to a question
 - **Project Showcase**: Detailed overview of experience in residential, commercial, and real estate finance
@@ -124,7 +124,6 @@ vercel
 **Emerald Capital Properties** - Real Estate Broker
 
 - **Experience**: 20 years in Southern California real estate
-- 
 - **Specialties**: Residential, Commercial, Real Estate Finance
 - **Background**: Corporate finance experience with private equity firm in NYC
 
